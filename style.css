@@ -1,0 +1,65 @@
+
+title {
+   background: whitesmoke;
+    text-align: center;
+    font: 100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    min-height: 100vh;
+    margin: auto;
+}
+
+
+
+
+body {
+    min-height: 100vh;
+    margin: 0 auto;
+    font: 12pt Comic Sans MS;
+    text-align: center;
+    background-color: whitesmoke;
+    font: 100px;
+    list-style: bullet points;
+  }
+  
+  header {
+    width: 100%;
+    height: 30px;
+    background: whitesmoke;
+    color: black;
+    text-align: center;
+    line-height: 30px;
+  }
+  img {
+    max-width: 200px;
+    max-height: 200px;
+  }
+  
+  main {
+    background: whitesmoke;
+    text-align: center;
+    font: 100px;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  section {
+    width: 100px;
+    background: #990012;
+    color: #ffffff;
+    border-radius: 10px;
+    margin: 5px;
+    text-align: center;
+    line-height: 100px;
+  }
+
+.aboutme-header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 150px;
+  padding-bottom: 100px;
+}
+
